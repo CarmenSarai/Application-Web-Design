@@ -11,16 +11,12 @@
 
 ## Section with the tagging options Markdown offers
 
-- **Headers** # Header 1
-- **Lists**
-- Item 1
-- Item 2
-- **Emphasis:** 
-*Italic Text* 
-**Bold Text**
--**Links** 
+- **Headers** "# Header 1"
+- **Lists** ""- Item 1"
+- **Emphasis:** "*Italic Text*" "**Bold Text**"
+- **Links** 
 [Link Text](https://markdown.es/)
--**Images** 
+- **Images** 
 ![Alt Text](image-url.jpg)
 
 ## commands used in git 
